@@ -1,5 +1,5 @@
 (function () {
-  // Set our main 
+ 
   let scene,
   renderer,
   camera,
