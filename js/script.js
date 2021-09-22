@@ -22,7 +22,7 @@
     const canvas = document.querySelector('#c');
     const backgroundColor = 0xf1f1f1;
 
-    // Init the scene
+    
     scene = new THREE.Scene();
     scene.background = new THREE.Color(backgroundColor);
     scene.fog = new THREE.Fog(backgroundColor, 60, 100);
