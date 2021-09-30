@@ -33,7 +33,7 @@
     renderer.setPixelRatio(window.devicePixelRatio);
     document.body.appendChild(renderer.domElement);
 
-    // Add a camera
+    
     camera = new THREE.PerspectiveCamera(
     50,
     window.innerWidth / window.innerHeight,
