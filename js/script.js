@@ -3,7 +3,7 @@
   let scene,
   renderer,
   camera,
-  model, // Our character
+  model, 
   neck, // Reference to the neck bone in the skeleton
   waist, // Reference to the waist bone in the skeleton
   possibleAnims, // Animations found in our file
