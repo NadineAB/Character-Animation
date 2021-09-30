@@ -222,7 +222,7 @@
     }
   }
 
-  // Get a random animation, and play it 
+  
   function playOnClick() {
     let anim = Math.floor(Math.random() * possibleAnims.length) + 0;
     playModifierAnimation(idle, 0.25, possibleAnims[anim], 0.25);
