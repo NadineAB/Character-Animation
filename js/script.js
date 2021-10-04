@@ -141,7 +141,7 @@
       color: 0xeeeeee,
       shininess: 0 });
 
-
+    // add floor geomtry
     let floor = new THREE.Mesh(floorGeometry, floorMaterial);
     floor.rotation.x = -0.5 * Math.PI;
     floor.receiveShadow = true;
