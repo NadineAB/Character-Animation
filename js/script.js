@@ -27,7 +27,7 @@
     scene.background = new THREE.Color(backgroundColor);
     scene.fog = new THREE.Fog(backgroundColor, 60, 100);
 
-    // Init the renderer
+    
     renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
     renderer.shadowMap.enabled = true;
     renderer.setPixelRatio(window.devicePixelRatio);
