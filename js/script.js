@@ -114,7 +114,7 @@
     });
 
 
-    // Add lights
+    
    
     let hemiLight = new THREE.HemisphereLight(0xffffff, 0xffffff, 0.61);
     hemiLight.position.set(0, 50, 0);
