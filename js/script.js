@@ -108,7 +108,7 @@
       idle.play();
 
     },
-    undefined, // We don't need this function
+    undefined, 
     function (error) {
       console.error(error);
     });
