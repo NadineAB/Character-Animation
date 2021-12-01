@@ -4,7 +4,7 @@
   renderer,
   camera,
   model, 
-  neck, 
+  neck, // Ref to the neck bone in the skeleton
   waist, // Ref to the waist bone in the skeleton
   possibleAnims, // Animations found in our file
   mixer, // THREE.js animations mixer
