@@ -80,11 +80,11 @@
 
       model.scale.set(7, 7, 7);
       model.position.y = -11;
-
+      // load model
       scene.add(model);
 
       loaderAnim.remove();
-
+      //
       mixer = new THREE.AnimationMixer(model);
 
       let clips = fileAnimations.filter(val => val.name !== 'idle');
