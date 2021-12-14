@@ -8,7 +8,7 @@
   waist, // Ref to the waist bone in the skeleton
   possibleAnims, // Animations found in our file
   mixer, // THREE.js animations mixer
-  idle, // Idle, the default state our character returns to
+  idle, // Idle
   clock = new THREE.Clock(), // Used for anims, which run to a clock instead of frame rate 
   currentlyAnimating = false, // Used to check whether characters neck is being used in another anim
   raycaster = new THREE.Raycaster(), // Used to detect the click on our character
