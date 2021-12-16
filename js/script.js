@@ -53,7 +53,7 @@
       skinning: true });
 
 
-    // 3D model load
+    
     var loader = new THREE.GLTFLoader();
 
     loader.load(
