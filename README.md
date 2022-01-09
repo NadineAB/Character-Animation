@@ -1,6 +1,6 @@
 # Interactive 3D Character with Three.js
 
-Demo for the tutorial on how to add an interactive 3D character to a website.
+Demo for the tutorial on how to add an interactive 3D character to a website using WebGL
 
 ![3D Character](https://tympanus.net/codrops/wp-content/uploads/2019/10/Interactive3DCharacter_feat.jpg)
 
